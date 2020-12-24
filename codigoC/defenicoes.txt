@@ -1,0 +1,23 @@
+	1.5 DEFENICOES
+		1.5.1 COMO USAR O PROGRAMA
+
+	Este programa tem como objetivo gerir um complexo com 10 salas.
+	O numero de salas pode ser alterado facilmente, bastando para tal
+alterar a constante simbolica "NUM_SALAS" defenida no inicio do programa.
+	
+	SALAS
+	As salas estao identificadas pela sigla Sn, em que n é o numero da sala
+compreendido entre 0 e o numero de salas menos 1. Por exemplo, um complexo com
+10 salas é numerado da seguinte forma: S0 S1 S2 S3 S4 S5 S6 S7 S8 S9.
+
+	DIAS DA SEMANA
+	Os dias da semana uteis sao: segunda feira, terca feira, quarta feira, 
+quinta feira e sexta feira. Neste programa, os dias sao identificados pelos numeros 
+2, 3, 4, 5 e 6, respetivamente. Assim, quanto e pedido um dia da semana, o
+utilizador deve colocar os referidos numeros.
+
+	HORA
+	Para cada dia da semana, e correspondido 12 horas diarias uteis, ou seja, 
+12 horas em que pode existir ocupacao de uma dada sala em um dado dia. Neste 
+complexo, as horas que podem existir aulas sao das 8 horas ate as 20h, inclusive.
+
